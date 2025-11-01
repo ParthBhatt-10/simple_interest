@@ -1,2 +1,3 @@
-# simple_interest
-Find Simple Interest
+# Simple Interest
+
+This project calculates simple interest using a shell script.
